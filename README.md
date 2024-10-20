@@ -1,4 +1,4 @@
-# How to read xml based RSS feed using PHP? #
+# How to read xml based RSS feed using PHP simplexml_load_file function? #
 
 In this app I am using simplexml_load_file() php function to read xml based rss feed. After retrive the data from xml feed using a foreach loop I am looping all the items are binding to html. Total number of records here I set to 32. You can increase this value depending upon your RSS feed.
 
